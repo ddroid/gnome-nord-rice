@@ -30,6 +30,13 @@ https://github.com/fxbrit/nord-extended
 [Link](https://chromewebstore.google.com/detail/enhancer-for-youtube/ponfpcnoihfmfllpaingbgckeeldkhle)
 
 Check the `enhancer-for-youtube.json` in the repo
+
+## Wallpapers
+The specific wallpaper is this one : [Link](https://github.com/TheGlitchh/Nord-Wallpapers/blob/master/wallpapers/17.png)
+### For more Nord Wallpapers
+- https://github.com/TheGlitchh/Nord-Wallpapers
+- https://github.com/linuxdotexe/nordic-wallpapers
+
 ## Bonus Tip
 To Change the titlebar of most application with GTK, Install them through Pacman or AUR instead of Flatpaks. Some would require additional tinkering like kitty which need to use xwayland session.
 
