@@ -32,3 +32,5 @@ https://github.com/fxbrit/nord-extended
 Check the `enhancer-for-youtube.json` in the repo
 ## Bonus Tip
 To Change the titlebar of most application with GTK, Install them through Pacman or AUR instead of Flatpaks. Some would require additional tinkering like kitty which need to use xwayland session.
+
+# Thanks for reading 💙 and Please Star the repo ⭐
